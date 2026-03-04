@@ -3,8 +3,6 @@ import os
 import re
 import argparse
 import subprocess
-from sys import prefix
-from sys import prefix
 from typing import Set, List, Optional
 
 
